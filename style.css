@@ -36,7 +36,7 @@ nav img{
 .right-side h1{
     font-family: 'Poppins',sans-serif;
     font-weight: 600;
-    font-size: 2.9vw;
+    font-size: 2.7vw;
     line-height:4.1vw;
     letter-spacing: -0.005em;
 }
@@ -44,7 +44,7 @@ nav img{
     font-family: 'Open Sans',sans-serif;
     color:#F8E6FF;
     font-size: 1.25vw;
-    margin:5vh 0 1.8vw 0;
+    margin:3.125vh 0 1.8vw 0;
 }
 .right-side button{
     width:13.9vw;
