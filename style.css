@@ -70,7 +70,7 @@ ul.social {
 ul.social > li {
     display: inline-block;
 }
-ul.social > li > a {
+ul.social > li > span {
     display: inline-block;
     font-size: 18px;
     line-height: 30px;
@@ -85,7 +85,7 @@ ul.social > li > a {
     text-decoration: none;
     margin: 0 15px 15px 0;
 }
-ul.social > li > a:hover {
+ul.social > li > span:hover {
     color:var(--soft-magenta);
     border-color: var(--soft-magenta);
 }
