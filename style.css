@@ -79,7 +79,7 @@ nav img{
     text-decoration: none;
     margin: 0 15px 15px 0;
 }
-ul.social > span:hover {
+.social > span:hover {
     color:var(--soft-magenta);
     border-color: var(--soft-magenta);
 }
